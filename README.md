@@ -44,5 +44,5 @@ I particularly enjoyed crafting the **pixel-perfect design** purely with HTML an
 ## ⚙️ How to Run the Project  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Iphone-clone.git
+   git clone https://github.com/VinayKumar-KM/Iphone-clone.git
    cd Iphone-clone
